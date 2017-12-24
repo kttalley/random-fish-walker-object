@@ -1,1 +1,1 @@
-"# random-fish-walker-object" 
+new p5(); is called to access createVector and other p5.js function calls in the global scope. regularly p5 functions are only available outside of local scopes after the html setup process has completed
